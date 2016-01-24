@@ -1,1 +1,1 @@
-# Mandlebro
+# Mandlebrot
